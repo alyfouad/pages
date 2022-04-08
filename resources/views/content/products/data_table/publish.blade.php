@@ -1,0 +1,1 @@
+<button aria-label="" class="btn btn-{{$publish == 'published' ? 'success' : 'warning'}}">{{$publish}}</button>
