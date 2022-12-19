@@ -4,8 +4,8 @@
     <!-- END SIDEBAR MENU TOP TRAY CONTENT-->
     <!-- BEGIN SIDEBAR MENU HEADER-->
     <div class="sidebar-header">
-        <img src="assets/img/logo.png" alt="logo" class="brand" data-src="assets/img/logo.png"
-            data-src-retina="assets/img/logo_2x.png" width="78" height="22">
+        <h3 style="color:#016de4;    font-family: monospace;font-weight: bold;">Mz Tracking</h3>
+        {{-- <img src="{{asset('/')}}assets/img/logo.png" alt="logo" class="brand" data-src="{{asset('/')}}assets/img/logo.png" data-src-retina="{{asset('/')}}assets/img/logo_2x.png" width="78" height="22"> --}}
     </div>
     <!-- END SIDEBAR MENU HEADER-->
     <!-- START SIDEBAR MENU -->
@@ -19,18 +19,11 @@
                 <span class="icon-thumbnail"><i data-feather="shield"></i></span>
             </li>
             
-            <li class="{{ (strpos(Route::currentRouteName(), 'products.index') !== false) ? 'active' : '' }}">
-                <a href="{{route('products.index')}}">
-                    <span class="title">Products</span>
+            <li class="{{ (strpos(Route::currentRouteName(), 'live_tracking') !== false) ? 'active' : '' }}">
+                <a href="{{route('live_tracking')}}">
+                    <span class="title">live tracking</span>
                 </a>
-                <span class="icon-thumbnail"><i data-feather="box"></i></span>
-            </li>
-
-            <li class="{{ (strpos(Route::currentRouteName(), 'categories.index') !== false) ? 'active' : '' }}">
-                <a href="{{route('categories.index')}}">
-                    <span class="title">Categories</span>
-                </a>
-                <span class="icon-thumbnail"><i data-feather="menu"></i></span>
+                <span class="icon-thumbnail"><i data-feather="map-pin"></i></span>
             </li>
 
         </ul>

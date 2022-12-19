@@ -1,6 +1,5 @@
 <?php
 
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,6 +13,14 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-    return $request->user();
+// all users routes
+Route::group(['namespace' => 'Auth', 'middleware' => 'guest:api'], function () {
+    // users auth routes
+    Route::post('login', 'UserLoginController@login');
+    Route::post('password/request', 'ForgotPasswordController@sendResetPasswordCode');
+    Route::get('password/reset', 'ResetPasswordController@resetUserPassword')->name('users.password.reset');
+
+});
+Route::group(['middleware' => 'auth:api'], function () {
+    Route::post('store-location', 'GpsController@store');
 });

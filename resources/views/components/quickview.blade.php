@@ -353,7 +353,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/1x.jpg" data-src="assets/img/profiles/1.jpg" src="assets/img/profiles/1x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/1x.jpg" data-src="{{asset('/')}}assets/img/profiles/1.jpg" src="{{asset('/')}}assets/img/profiles/1x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">ava flores</span>
@@ -371,7 +371,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/2x.jpg" data-src="assets/img/profiles/2.jpg" src="assets/img/profiles/2x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/2x.jpg" data-src="{{asset('/')}}assets/img/profiles/2.jpg" src="{{asset('/')}}assets/img/profiles/2x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">bella mccoy</span>
@@ -384,7 +384,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/3x.jpg" data-src="assets/img/profiles/3.jpg" src="assets/img/profiles/3x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/3x.jpg" data-src="{{asset('/')}}assets/img/profiles/3.jpg" src="{{asset('/')}}assets/img/profiles/3x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">bob stephens</span>
@@ -402,7 +402,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/4x.jpg" data-src="assets/img/profiles/4.jpg" src="assets/img/profiles/4x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/4x.jpg" data-src="{{asset('/')}}assets/img/profiles/4.jpg" src="{{asset('/')}}assets/img/profiles/4x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">carole roberts</span>
@@ -415,7 +415,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/5x.jpg" data-src="assets/img/profiles/5.jpg" src="assets/img/profiles/5x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/5x.jpg" data-src="{{asset('/')}}assets/img/profiles/5.jpg" src="{{asset('/')}}assets/img/profiles/5x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">christopher perez</span>
@@ -433,7 +433,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/6x.jpg" data-src="assets/img/profiles/6.jpg" src="assets/img/profiles/6x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/6x.jpg" data-src="{{asset('/')}}assets/img/profiles/6.jpg" src="{{asset('/')}}assets/img/profiles/6x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">danielle fletcher</span>
@@ -446,7 +446,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/7x.jpg" data-src="assets/img/profiles/7.jpg" src="assets/img/profiles/7x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/7x.jpg" data-src="{{asset('/')}}assets/img/profiles/7.jpg" src="{{asset('/')}}assets/img/profiles/7x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">david sutton</span>
@@ -464,7 +464,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/8x.jpg" data-src="assets/img/profiles/8.jpg" src="assets/img/profiles/8x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/8x.jpg" data-src="{{asset('/')}}assets/img/profiles/8.jpg" src="{{asset('/')}}assets/img/profiles/8x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">earl hamilton</span>
@@ -477,7 +477,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/9x.jpg" data-src="assets/img/profiles/9.jpg" src="assets/img/profiles/9x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/9x.jpg" data-src="{{asset('/')}}assets/img/profiles/9.jpg" src="{{asset('/')}}assets/img/profiles/9x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">elaine lawrence</span>
@@ -490,7 +490,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/1x.jpg" data-src="assets/img/profiles/1.jpg" src="assets/img/profiles/1x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/1x.jpg" data-src="{{asset('/')}}assets/img/profiles/1.jpg" src="{{asset('/')}}assets/img/profiles/1x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">ellen grant</span>
@@ -503,7 +503,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/2x.jpg" data-src="assets/img/profiles/2.jpg" src="assets/img/profiles/2x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/2x.jpg" data-src="{{asset('/')}}assets/img/profiles/2.jpg" src="{{asset('/')}}assets/img/profiles/2x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">erik taylor</span>
@@ -516,7 +516,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/3x.jpg" data-src="assets/img/profiles/3.jpg" src="assets/img/profiles/3x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/3x.jpg" data-src="{{asset('/')}}assets/img/profiles/3.jpg" src="{{asset('/')}}assets/img/profiles/3x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">everett wagner</span>
@@ -534,7 +534,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/4x.jpg" data-src="assets/img/profiles/4.jpg" src="assets/img/profiles/4x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/4x.jpg" data-src="{{asset('/')}}assets/img/profiles/4.jpg" src="{{asset('/')}}assets/img/profiles/4x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">freddie gomez</span>
@@ -552,7 +552,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/5x.jpg" data-src="assets/img/profiles/5.jpg" src="assets/img/profiles/5x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/5x.jpg" data-src="{{asset('/')}}assets/img/profiles/5.jpg" src="{{asset('/')}}assets/img/profiles/5x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">glen jensen</span>
@@ -565,7 +565,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/6x.jpg" data-src="assets/img/profiles/6.jpg" src="assets/img/profiles/6x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/6x.jpg" data-src="{{asset('/')}}assets/img/profiles/6.jpg" src="{{asset('/')}}assets/img/profiles/6x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">gwendolyn walker</span>
@@ -583,7 +583,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/7x.jpg" data-src="assets/img/profiles/7.jpg" src="assets/img/profiles/7x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/7x.jpg" data-src="{{asset('/')}}assets/img/profiles/7.jpg" src="{{asset('/')}}assets/img/profiles/7x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">janet romero</span>
@@ -601,7 +601,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/8x.jpg" data-src="assets/img/profiles/8.jpg" src="assets/img/profiles/8x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/8x.jpg" data-src="{{asset('/')}}assets/img/profiles/8.jpg" src="{{asset('/')}}assets/img/profiles/8x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">kim martinez</span>
@@ -619,7 +619,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/9x.jpg" data-src="assets/img/profiles/9.jpg" src="assets/img/profiles/9x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/9x.jpg" data-src="{{asset('/')}}assets/img/profiles/9.jpg" src="{{asset('/')}}assets/img/profiles/9x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">lawrence white</span>
@@ -632,7 +632,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/1x.jpg" data-src="assets/img/profiles/1.jpg" src="assets/img/profiles/1x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/1x.jpg" data-src="{{asset('/')}}assets/img/profiles/1.jpg" src="{{asset('/')}}assets/img/profiles/1x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">leroy bell</span>
@@ -645,7 +645,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/2x.jpg" data-src="assets/img/profiles/2.jpg" src="assets/img/profiles/2x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/2x.jpg" data-src="{{asset('/')}}assets/img/profiles/2.jpg" src="{{asset('/')}}assets/img/profiles/2x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">letitia carr</span>
@@ -658,7 +658,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/3x.jpg" data-src="assets/img/profiles/3.jpg" src="assets/img/profiles/3x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/3x.jpg" data-src="{{asset('/')}}assets/img/profiles/3.jpg" src="{{asset('/')}}assets/img/profiles/3x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">lucy castro</span>
@@ -676,7 +676,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/4x.jpg" data-src="assets/img/profiles/4.jpg" src="assets/img/profiles/4x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/4x.jpg" data-src="{{asset('/')}}assets/img/profiles/4.jpg" src="{{asset('/')}}assets/img/profiles/4x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">mae hayes</span>
@@ -689,7 +689,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/5x.jpg" data-src="assets/img/profiles/5.jpg" src="assets/img/profiles/5x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/5x.jpg" data-src="{{asset('/')}}assets/img/profiles/5.jpg" src="{{asset('/')}}assets/img/profiles/5x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">marilyn owens</span>
@@ -702,7 +702,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/6x.jpg" data-src="assets/img/profiles/6.jpg" src="assets/img/profiles/6x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/6x.jpg" data-src="{{asset('/')}}assets/img/profiles/6.jpg" src="{{asset('/')}}assets/img/profiles/6x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">marlene cole</span>
@@ -715,7 +715,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/7x.jpg" data-src="assets/img/profiles/7.jpg" src="assets/img/profiles/7x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/7x.jpg" data-src="{{asset('/')}}assets/img/profiles/7.jpg" src="{{asset('/')}}assets/img/profiles/7x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">marsha warren</span>
@@ -728,7 +728,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/8x.jpg" data-src="assets/img/profiles/8.jpg" src="assets/img/profiles/8x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/8x.jpg" data-src="{{asset('/')}}assets/img/profiles/8.jpg" src="{{asset('/')}}assets/img/profiles/8x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">marsha dean</span>
@@ -741,7 +741,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/9x.jpg" data-src="assets/img/profiles/9.jpg" src="assets/img/profiles/9x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/9x.jpg" data-src="{{asset('/')}}assets/img/profiles/9.jpg" src="{{asset('/')}}assets/img/profiles/9x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">mia diaz</span>
@@ -760,7 +760,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/1x.jpg" data-src="assets/img/profiles/1.jpg" src="assets/img/profiles/1x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/1x.jpg" data-src="{{asset('/')}}assets/img/profiles/1.jpg" src="{{asset('/')}}assets/img/profiles/1x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">noah elliott</span>
@@ -778,7 +778,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/2x.jpg" data-src="assets/img/profiles/2.jpg" src="assets/img/profiles/2x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/2x.jpg" data-src="{{asset('/')}}assets/img/profiles/2.jpg" src="{{asset('/')}}assets/img/profiles/2x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">phyllis hamilton</span>
@@ -796,7 +796,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/3x.jpg" data-src="assets/img/profiles/3.jpg" src="assets/img/profiles/3x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/3x.jpg" data-src="{{asset('/')}}assets/img/profiles/3.jpg" src="{{asset('/')}}assets/img/profiles/3x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">raul rodriquez</span>
@@ -809,7 +809,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/4x.jpg" data-src="assets/img/profiles/4.jpg" src="assets/img/profiles/4x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/4x.jpg" data-src="{{asset('/')}}assets/img/profiles/4.jpg" src="{{asset('/')}}assets/img/profiles/4x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">rhonda barnett</span>
@@ -822,7 +822,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/5x.jpg" data-src="assets/img/profiles/5.jpg" src="assets/img/profiles/5x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/5x.jpg" data-src="{{asset('/')}}assets/img/profiles/5.jpg" src="{{asset('/')}}assets/img/profiles/5x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">roberta king</span>
@@ -840,7 +840,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/6x.jpg" data-src="assets/img/profiles/6.jpg" src="assets/img/profiles/6x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/6x.jpg" data-src="{{asset('/')}}assets/img/profiles/6.jpg" src="{{asset('/')}}assets/img/profiles/6x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">scott armstrong</span>
@@ -853,7 +853,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/7x.jpg" data-src="assets/img/profiles/7.jpg" src="assets/img/profiles/7x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/7x.jpg" data-src="{{asset('/')}}assets/img/profiles/7.jpg" src="{{asset('/')}}assets/img/profiles/7x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">sebastian austin</span>
@@ -866,7 +866,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/8x.jpg" data-src="assets/img/profiles/8.jpg" src="assets/img/profiles/8x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/8x.jpg" data-src="{{asset('/')}}assets/img/profiles/8.jpg" src="{{asset('/')}}assets/img/profiles/8x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">sofia davis</span>
@@ -884,7 +884,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/9x.jpg" data-src="assets/img/profiles/9.jpg" src="assets/img/profiles/9x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/9x.jpg" data-src="{{asset('/')}}assets/img/profiles/9.jpg" src="{{asset('/')}}assets/img/profiles/9x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">terrance young</span>
@@ -897,7 +897,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/1x.jpg" data-src="assets/img/profiles/1.jpg" src="assets/img/profiles/1x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/1x.jpg" data-src="{{asset('/')}}assets/img/profiles/1.jpg" src="{{asset('/')}}assets/img/profiles/1x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">theodore woods</span>
@@ -910,7 +910,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/2x.jpg" data-src="assets/img/profiles/2.jpg" src="assets/img/profiles/2x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/2x.jpg" data-src="{{asset('/')}}assets/img/profiles/2.jpg" src="{{asset('/')}}assets/img/profiles/2x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">todd wood</span>
@@ -923,7 +923,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/3x.jpg" data-src="assets/img/profiles/3.jpg" src="assets/img/profiles/3x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/3x.jpg" data-src="{{asset('/')}}assets/img/profiles/3.jpg" src="{{asset('/')}}assets/img/profiles/3x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">tommy jenkins</span>
@@ -941,7 +941,7 @@
                   <li class="chat-user-list clearfix">
                     <a data-view-animation="push-parrallax" data-view-port="#chat" data-navigate="view" class="" href="#">
                       <span class="thumbnail-wrapper d32 circular bg-success">
-                          <img width="34" height="34" alt="" data-src-retina="assets/img/profiles/4x.jpg" data-src="assets/img/profiles/4.jpg" src="assets/img/profiles/4x.jpg" class="col-top">
+                          <img width="34" height="34" alt="" data-src-retina="{{asset('/')}}assets/img/profiles/4x.jpg" data-src="{{asset('/')}}assets/img/profiles/4.jpg" src="{{asset('/')}}assets/img/profiles/4x.jpg" class="col-top">
                       </span>
                       <p class="p-l-10 ">
                         <span class="text-color">wilma hicks</span>
@@ -984,7 +984,7 @@
               <!-- BEGIN From Them Message  !-->
               <div class="message clearfix">
                 <div class="profile-img-wrapper m-t-5 inline">
-                  <img class="col-top" width="30" height="30" src="assets/img/profiles/avatar_small.jpg" alt="" data-src="assets/img/profiles/avatar_small.jpg" data-src-retina="assets/img/profiles/avatar_small2x.jpg">
+                  <img class="col-top" width="30" height="30" src="{{asset('/')}}assets/img/profiles/avatar_small.jpg" alt="" data-src="{{asset('/')}}assets/img/profiles/avatar_small.jpg" data-src-retina="{{asset('/')}}assets/img/profiles/avatar_small2x.jpg">
                 </div>
                 <div class="chat-bubble from-them">
                   Hey
@@ -1008,7 +1008,7 @@
               <!-- BEGIN From Them Message  !-->
               <div class="message clearfix">
                 <div class="profile-img-wrapper m-t-5 inline">
-                  <img class="col-top" width="30" height="30" src="assets/img/profiles/avatar_small.jpg" alt="" data-src="assets/img/profiles/avatar_small.jpg" data-src-retina="assets/img/profiles/avatar_small2x.jpg">
+                  <img class="col-top" width="30" height="30" src="{{asset('/')}}assets/img/profiles/avatar_small.jpg" alt="" data-src="{{asset('/')}}assets/img/profiles/avatar_small.jpg" data-src-retina="{{asset('/')}}assets/img/profiles/avatar_small2x.jpg">
                 </div>
                 <div class="chat-bubble from-them">
                   Yea

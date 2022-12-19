@@ -37,17 +37,8 @@
 </head>
 
 <body class="fixed-header menu-pin">
-    <div class="login-wrapper ">
+    <div class="login-wrapper" style="background:url(assets/login-background.png)">
         <!-- START Login Background Pic Wrapper-->
-        <div class="bg-pic">
-            <!-- START Background Caption-->
-            <div class="bg-caption pull-bottom sm-pull-bottom text-white p-l-20 m-b-20">
-                <img src="assets/img/logo.png" alt="logo" class="brand" data-src="assets/img/logo.png"
-                    data-src-retina="assets/img/logo_2x.png" width="78" height="22">
-
-            </div>
-            <!-- END Background Caption-->
-        </div>
         <!-- END Login Background Pic Wrapper-->
         <!-- START Login Right Container-->
         <div class="login-container bg-white">
@@ -104,7 +95,7 @@
                     <div class="m-b-30 p-r-80 sm-m-t-20 sm-p-r-15 sm-p-b-20 clearfix">
                         <div class="col-sm-9 no-padding m-t-10">
                             <p class="small-text normal hint-text">
-                                ©2019-2020 All Rights Reserved. Pages®<a href="#">Cookie Policy</a>, <a href="#">
+                                ©2019-2020 All Rights Reserved. Mz Tracking System<a href="#">Cookie Policy</a>, <a href="#">
                                     Privacy and Terms</a>.
                             </p>
                         </div>

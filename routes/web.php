@@ -1,10 +1,8 @@
 <?php
 
-use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\LoginController;
-use App\Http\Controllers\ProductController;
-use App\Http\Controllers\ScrapeController;
+use App\Http\Controllers\LiveTrackingController;
 use App\Http\Controllers\LocalizationController;
 use Illuminate\Support\Facades\Route;
 
@@ -31,9 +29,8 @@ Route::group(['middleware' => 'auth'], function ()
 
     Route::get('/', [DashboardController::class,'index'])->name('dashboard');
     
-    Route::get('products/data', [ProductController::class,'data']);
-    Route::resource('products', ProductController::class);
+    Route::get('live_tracking', [LiveTrackingController::class,'index'])->name('live_tracking');
+    Route::get('live_tracking/data', [LiveTrackingController::class,'data'])->name('live_tracking_data');
     
-    Route::resource('categories', CategoryController::class);
 });
 

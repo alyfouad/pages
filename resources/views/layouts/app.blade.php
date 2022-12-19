@@ -32,14 +32,6 @@
     </div>
     <!-- END PAGE CONTAINER -->
 
-    <!--START QUICKVIEW -->
-    @include('components.quickview')
-    <!-- END QUICKVIEW-->
-
-    <!-- START OVERLAY -->
-    @include('components.overlay')
-    <!-- END OVERLAY -->
-
     <!-- BEGIN VENDOR JS -->
     @include('components.scripts')
 </body>
